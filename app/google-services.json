@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:323987807290:android:fdb4070942efd31034a903",
+        "mobilesdk_app_id": "app_id",
         "android_client_info": {
           "package_name": "com.example.hostelfoodfeedbacapp"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA6FPkCkEpbdKl3IC9V-i7xanggZbe8do0"
+          "current_key": "your_api_key"
         }
       ],
       "services": {
